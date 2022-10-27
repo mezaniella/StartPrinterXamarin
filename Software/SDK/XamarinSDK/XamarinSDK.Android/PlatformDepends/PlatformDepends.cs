@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using XamarinSDK.Droid;
 using XamarinSDK.LocalizeReceipts;
+using Rect = Android.Graphics.Rect;
 
 [assembly: Dependency(typeof(PlatformDepends))]
 
